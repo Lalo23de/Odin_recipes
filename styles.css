@@ -1,3 +1,19 @@
-body {
+img {
+    height: auto;
+    width: 500px;
+}
+li {
+    text-align: left;
+    margin-bottom: 25px;
+    margin-left: 20px;
+}
+strong {
+    font-size: 25px;
+    
+}
+h1, h2, h3{
     text-align: center;
+}    
+.Ingredients {
+
 }
